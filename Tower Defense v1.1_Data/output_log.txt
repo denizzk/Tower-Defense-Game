@@ -1,0 +1,34 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvldumd.dll 23.21.13.9065]
+    Renderer: NVIDIA GeForce GTX 780
+    Vendor:   NVIDIA
+    VRAM:     3029 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.154 seconds
+Platform assembly: D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Program Files (x86)\Unity Oyunlar\Tower Defense\Tower Defense v1.1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.154484 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3094 -> priority: 1 
+  Thread -> id: 2fec -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.058542 ms
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 246.
+Total: 0.291400 ms (FindLiveObjects: 0.009947 ms CreateObjectMapping: 0.010532 ms MarkObjects: 0.134290 ms  DeleteObjects: 0.135460 ms)
+
